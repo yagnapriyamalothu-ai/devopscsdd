@@ -1,1 +1,1 @@
-echo "# yagna" >> README.md
+echo "this is my first project"
